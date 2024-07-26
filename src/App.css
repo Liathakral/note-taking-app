@@ -4,17 +4,15 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
- 
 }
 
 .home {
   max-width: 600px;
   margin: 50px auto;
   padding: 50px;
-  background:  white;
+  background: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
-
 }
 
 .note-item {
@@ -35,14 +33,13 @@ body {
 .note-item span {
   font-size: 0.8em;
   color: #666;
- 
 }
 
 form {
   display: flex;
   flex-direction: column;
   gap: 10px;
- gap: 20px;
+  gap: 20px;
 }
 
 form input,
@@ -76,7 +73,7 @@ form button:hover {
   padding: 5px 10px;
   /* background: #007bff; */
   color: white;
-  
+
   border: none;
   border-radius: 5px;
   cursor: pointer;
